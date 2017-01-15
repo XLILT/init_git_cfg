@@ -13,8 +13,6 @@ then
 	sed -i 's/url = https:\/\/github.com\//url = git@github.com:/g' .git/config
 	echo "init config successfully."
 else
-
 	echo "file $cfg_file not existed, init config failed!!!"
 fi
-
 

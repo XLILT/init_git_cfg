@@ -2,7 +2,7 @@
 # File Name: /root/git_init_cfg.sh
 # Author: mxl
 # Mail: xiaolongicx@gmail.com
-# Created Time: Sat 14 Jan 2017 11:21:46 AM CST
+# Created Time: Sat 14 Jan 2017 11:21:46 AM CST 
 #########################################################################
 #!/usr/bin/env bash
 

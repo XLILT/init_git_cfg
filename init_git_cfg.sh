@@ -15,4 +15,4 @@ then
 else
 	echo "file $cfg_file not existed, init config failed!!!"
 fi
-
+ 
